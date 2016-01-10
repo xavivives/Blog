@@ -1,4 +1,4 @@
-![](https://40.media.tumblr.com/c0c5d96b7c7f191e38e9d64c72cc03bc/tumblr_inline_o0qkgd93gD1qbpnb6_540.jpg)
+<img src="https://40.media.tumblr.com/c0c5d96b7c7f191e38e9d64c72cc03bc/tumblr_inline_o0qkgd93gD1qbpnb6_540.jpg" data-orig-width="900" data-orig-height="550" alt="image">
 
 ##Social problems
 One of the hardest things about maintaining a diet that is completely different from everyone else’s is attending social events. During the week, when I was back in Catalonia, I cooked exactly what I wanted. But on the weekends, while eating out in restaurants or at someone's place, having control of my diet became a real problem.  
