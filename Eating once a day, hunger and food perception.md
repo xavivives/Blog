@@ -1,3 +1,5 @@
+[[Llegeix la versió en català d'aquest article](http://blog.xavivives.com/post/138088140958/un-apat-al-dia-gana-i-la-percepci%C3%B3-del-menjar)]
+
 <img src="https://40.media.tumblr.com/c0c5d96b7c7f191e38e9d64c72cc03bc/tumblr_inline_o0qkgd93gD1qbpnb6_540.jpg" data-orig-width="900" data-orig-height="550" alt="image">
 
 ##Social problems
