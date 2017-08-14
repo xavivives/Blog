@@ -1,10 +1,10 @@
 August 2017  
-
-**Xavier Vives Riba**  
   
 [xavivives.com](http://xavivives.com/index)  
 [@xavivives](https://twitter.com/xavivives)  
 [Github](https://github.com/xavivives)  
+
+#Xavier Vives Riba
 
 ### Designer and developer
 Most of the projects I been part of require a mix between design skills and technical knowledge, which is the area where I really enjoy working on. 
@@ -139,26 +139,25 @@ Presenting "Blockchain identity: digital passports to the self-sovereign world" 
 **Interview at Ciutat Vella radio** _(May 09)_, Barcelona. About "goodvibrations.es" and illegal music download.  
 
 ### Volunteering
-[**Co-organizer of Barcelona Bitcoin Community**](https://www.meetup.com/bitcoin-barcelona/) _(Oct 16 - current)_ Organizing events to help people understand the potential of Bitcoin and decentralization.
+[**Co-organizer of Barcelona Bitcoin Community**](https://www.meetup.com/bitcoin-barcelona/) _(Oct 16 - current) Barcelona_,  
+Organizing events to help people understand the potential of Bitcoin and decentralization.
 
-[**Scouts Association Jaume Caresmar**](http://cauigualada.cat/) _(Nov 13 – Aug 15), Igualada_
+[**Scouts Association Jaume Caresmar**](http://cauigualada.cat/) _(Nov 13 – Aug 15), Igualada_  
 Providing guidance to a small group of 19-year-old working on projects to serve and enhance human values
 
-[**CODAME**](http://codame.com/) _(July 11 – Apr 13), San Francisco_
+[**CODAME**](http://codame.com/) _(July 11 – Apr 13), San Francisco_  
 Art-tech non-profit. Helping to organize and set up events to inspire people.
 
-[**AFEV**] (http://afev.org/) _(Oct 09 – May 10), Barcelona_
+[**AFEV**] (http://afev.org/) _(Oct 09 – May 10), Barcelona_  
 NGO that provides support to youth with a high risk of social exclusion. Tutoring kids during the scholar course.
 
-[**Scouts Association Jaume Caresmar**](http://cauigualada.cat/) _(September 2007 – July 2010), Igualada_
+[**Scouts Association Jaume Caresmar**](http://cauigualada.cat/) _(September 2007 – July 2010), Igualada_  
 Scout leader with youths aged between 11 and 15 years old. Educating social values
 
-###Projects
-**[XaviVives.com](http://xavivives.com/index)**  
-My personal website contains a lot of essays, experiments, and ideas.
+### Projects
+**[XaviVives.com](http://xavivives.com/index)**   My personal website contains a lot of essays, experiments, and ideas.
 
-**[Building and living in a van](https://www.instagram.com/_xavivives/)** (Oct 16 - current)   
-I'm currently living (and building) my house in a van
+**[Building and living in a van](https://www.instagram.com/_xavivives/)** _(Oct 16 - current)_
 
 **MAIG** _(Nov 13 - June 14), Igualada._ Helped to kickstart the first maker space in my hometown.
 
