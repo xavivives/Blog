@@ -13,7 +13,7 @@ In last few years my main area of interest has focused on decentralized technolo
 
 ## Professional experience
 
-###Đapps
+### Đapps
 
 **[Uumm. Contribution based governance](https://github.com/xavivives/Uumm)**  
  _(Jul 17 - current) Girona_  
@@ -29,7 +29,7 @@ _(Jun 17), Girona_
 Part of Status.im Hackathon to kick start me into Ethereum development.
 
 
-###Career
+### Career
 **[Playstudios ASIA](http://www.playstudios.asia/)**  
 _(August 2015 - September 2016), Hong Kong_  
 Kickstarting MyVegasLucky Life mobile games for the Asian market.
@@ -85,7 +85,7 @@ Developing new lamp concepts using 3D design software and also working as a draf
 
 **Club Basquet Igualada** _(Oct 03 – May 04), Igualada._ Basketball referee for school games. 
 
-##Formal academic experience
+## Formal academic experience
 **ActionScript 3**   _(Sept 09 – Oct 10), Barcelona._ AS3 and OOP at Aula Espai computer school.
 
 **Dev. of Electronic Products** _(Sept 08 – June 09), Barcelona._ Professional training course.  
@@ -99,7 +99,7 @@ Developing new lamp concepts using 3D design software and also working as a draf
 
 **English** fluent spoken and written
 
-##Skills
+## Skills
 #### Programing
 Mostly frontend/interactive stuff.  
 Javascript (React, Angular, NPM…), Solidity & Web3, C# & Unity3D, C++ (OpenFrameworks), Haxe (Open FL), ActionScript 3, Processing
@@ -117,7 +117,7 @@ Installation and management of Linux servers and the main CMS (SSH, Wordpress)
 
 ## Other activities
 
-###Talks and  conferences
+### Talks and  conferences
 
 [**Blockchain identity (presenter)**](https://www.meetup.com/bitcoin-barcelona/photos/27657050/#458731726)  _(Feb 17), Barcelona_.  
 Presenting "Blockchain identity: digital passports to the self-sovereign world" at Barcelona Bitcoin Comunity
