@@ -4,7 +4,7 @@ August 2017
 [@xavivives](https://twitter.com/xavivives)  
 [Github](https://github.com/xavivives)  
 
-#Xavier Vives Riba
+# Xavier Vives Riba
 
 ### Designer and developer
 Most of the projects I been part of require a mix between design skills and technical knowledge, which is the area where I really enjoy working on. 
