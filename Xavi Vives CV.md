@@ -24,7 +24,7 @@ _(Apr 16) - current (paused)_
 Chrome extension for storing interesting web content into IPFS.  
 This is currently under heavy redesign.
 
-**[Self-commitment app on Ethereum] (https://github.com/status-im/hackathon/issues/65)**  
+**[Self-commitment app on Ethereum](https://github.com/status-im/hackathon/issues/65)**  
 _(Jun 17), Girona_    
 Part of Status.im Hackathon to kick start me into Ethereum development.
 
