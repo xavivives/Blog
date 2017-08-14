@@ -9,7 +9,7 @@ August 2017
 ### Designer and developer
 Most of the projects I've been part of require a mix between design skills and technical knowledge, which is the area where I really enjoy working on. 
 
-In last few years, my main area of interest has been focused decentralized technologies, and what they can enable technically but especially for the social-economic side of it.
+In last few years, my main area of interest has been focused on decentralized technologies, and what they can enable technically but especially for the social-economic side of it.
 
 ## Professional experience
 
@@ -101,7 +101,7 @@ Developing new lamp concepts using 3D design software and also working as a draf
 
 ## Skills
 #### Programing
-Mostly frontend/interactive stuff.  
+Mostly front-end/interactive stuff.  
 Javascript (React, Angular, NPM…), Solidity & Web3, C# & Unity3D, C++ (OpenFrameworks), Haxe (Open FL), ActionScript 3, Processing
 
 #### Other software 
