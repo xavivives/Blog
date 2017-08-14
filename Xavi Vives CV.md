@@ -33,7 +33,7 @@ Part of Status.im Hackathon to kick start me into Ethereum development.
 **[Playstudios ASIA](http://www.playstudios.asia/)**  
 _(August 2015 - September 2016), Hong Kong_  
 Kickstarting MyVegasLucky Life mobile games for the Asian market.
-Using Unity3D and C++. Code refactoring and user interface.
+Using Unity3D and C#. Code refactoring and user interface.
 
 **[Ludovico.io](http://ludovico.io)**  
 _(March 2014 - September 2015), Igualada_  
