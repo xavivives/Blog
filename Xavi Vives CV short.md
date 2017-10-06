@@ -1,28 +1,28 @@
-August 2017  
+October 2017  
   
-_This is a short CV version. Full version on [Github](https://github.com/xavivives/Blog/blob/master/Xavi%20Vives%20CV.md)._
-
 # Xavier Vives Riba
-[xavivives.com](http://xavivives.com/index)  
-[@xavivives](https://twitter.com/xavivives)  
-[Github](https://github.com/xavivives)  
+[xavivives.com](http://xavivives.com/index) - [xavings@gmail.com](mailto:xavings@gmail.com) - [@xavivives](https://twitter.com/xavivives) -  [Github](https://github.com/xavivives)  
+ _Full version of this resume [here](https://github.com/xavivives/Blog/blob/master/Xavi%20Vives%20CV.md)._
 
 ## Professional experience
 
-### Đapps
+### Decentralization
 
-**[Uumm. Contribution based governance](https://github.com/xavivives/Uumm)**  
+**[Esqueixada](https://www.youtube.com/channel/UC9lV1Baas2UbkOzmOOBqmxw/videos?view_as=subscriber)**  
+_(Sept 17 - Current) Girona_  
+Podcast to explain the need and the inner workings of decentralization and crypto, focused on the Catalonia context.
+
+**[Uumm. Decentralized meritocracy](https://github.com/Uummio/)**  
  _(Jul 17 - current) Girona_  
-Building the first iteration of a meritocracy like governance on Ethereum.
+Building a governance system based on white-listed merit on Ethereum.
 
-**[Samantha](https://github.com/xavivives/Samantha)**  
+**[Samantha](https://github.com/xavivives/Samantha/tree/master/extension)**  
 _(Apr 16) - current (paused)_  
-Chrome extension for storing interesting web content into IPFS.  
-This is currently under heavy redesign.
+Chrome extension for organizing web content and storing into IPFS, to later share it. This is currently under heavy redesign.
 
 **[Self-commitment app on Ethereum](https://github.com/status-im/hackathon/issues/65)**  
 _(Jun 17), Girona_    
-Part of Status.im Hackathon to kick start me into Ethereum development.
+Part of Status.im Hackathon.
 
 
 ### Career
@@ -37,25 +37,38 @@ Creating a social, programmable, audio-reactive visualizer. Using OpenFrameworks
 
 [**Playstudios**](http://playstudios.com/)  
 _(Sept 2011 – Apr  2013), San Francisco_  
-Social gaming studio creator of "MyVegas", currently with over 2M monthly active users.
-I was responsible for the whole user interface and experience design and its technical implementation. Developed using Haxe compiling to Flash
+Social gaming studio creator of "MyVegas".
+I was responsible for the whole user interface and experience design and its technical implementation. Developed using Haxe compiling to Flash.
 
 **[Aqueni](https://vimeo.com/20520674)**  
 _(Nov 2010 – Jul 2011), Barcelona/San Francisco_  
-A personal project focusing on mobile application creations (for iOS,  Android and BlackBerry PlayBook using Flash and Adobe Air. "Rubix" app won two design awards and was one of the featured apps for Motorola Xoom tablet release.
+Personal project focusing on mobile application creations (for iOS, Android and BlackBerry PlayBook using Adobe Air. "Rubix" app won two design awards and was one of the featured apps for Motorola Xoom tablet release.
+
+**[Principios Interactivos](http://www.principiosactivos.com/)**
+_(May 2008 – Nov 2010), Barcelona_ 
+Creative agency . Lead Flash programmer and UI designer. Projects included isometric engines, AR, 3D, games...
 
 ## Languages
-**Catalan** fluent spoken and written (native)
-
-**Spanish** fluent spoken and written
-
-**English** fluent spoken and written
+**Catalan** fluent spoken and written (native)  
+**Spanish** fluent spoken and written  
+**English** fluent spoken and written  
 
 ## Skills
-#### Programing
-Mostly front-end/interactive stuff.  
-Javascript (React, Angular, NPM…), Solidity & Web3, unit testing, C# & Unity3D, C++ (OpenFrameworks), Haxe (Open FL), ActionScript 3, Processing
+#### Development
+Mostly front-end/interactive: Javascript (React, Mocha, NPM…), Solidity, Web3, Truffle, unit testing, C# & Unity3D, C++ (OpenFrameworks), Haxe (Open FL), ActionScript 3, Processing, Arduino.
 
+#### UX UI
+[Uumm] (https://xavivives.github.io/Uumm/#projectId=0xcb3505cc27dc906855289efdc3e54ac5a8f1bcc7af32fdb9f1dfbce9b1b2acb8)
+, [Ludovico] (https://www.youtube.com/watch?v=eDI82fS5Kd8), [Metadata concept app]
+(https://www.youtube.com/watch?v=vZOW3OdPNXA&index=5&list=UUoRJpJaBBiGYqKxzlUBRNfA&t=35s), [Rubick's cube app]
+(https://www.youtube.com/watch?v=_q9hy9OXPuE)
+
+#### Personal
+I've led several projects, developing good skills for motivating people. I look for resolving problems from the onset and always looking to facilitate the work to others. Transparency is a requirement on any project I work.
+
+I value teamwork, always willing to listen, learn and teach. Motivated, optimistic, patient and with self-control. I have empathy and the capacity to understand people and what they want.
+
+Used to fast paced environments, with the Agile framework, always trying to keep things lean and well prioritized. Self-organized and responsive, comfortable working remotely. 
 ## Other activities
 
 ### Talks and  conferences
@@ -67,25 +80,26 @@ Presenting "Blockchain identity: digital passports to the self-sovereign world" 
 
 [**Bitcoin talk**](https://www.instagram.com/p/ujItVFOB79/?taken-by=inquietlife) _(Oct 14), Igualada_. Introducing Bitcoin to a none technical audience at Inquiet
   
-[**Ludovico at Codame**](https://www.youtube.com/watch?v=2wgcQ1Y-iLs) _(Dec 12)_, San Francisco. At Adobe offices, explaining the development of "Ludovico" (audio-reactive visualization software).
+**Codame 3D printing event** _(Apr 13)_, San Francisco. Live showcase of how a 3D printer works.
+
+[**Ludovico at Codame**](https://www.youtube.com/watch?v=2wgcQ1Y-iLs) _(Dec 12)_, San Francisco. At Adobe, explaining the development of "Ludovico" (audio-reactive visualization software).
+  
+**Adobe gaming summit** _(Jul 11)_, San Francisco. Presenting "Rubix" app developed with Adobe Air.
 
 ### Volunteering
 [**Co-organizer of Barcelona Bitcoin Community**](https://www.meetup.com/bitcoin-barcelona/) _(Oct 16 - current) Barcelona_,  
 The Biggest Bitcoin meetup in Spain. Organizing events to help people understand the potential of Bitcoin and decentralization.
 
-[**Scouts Association Jaume Caresmar**](http://cauigualada.cat/) _(Nov 13 – Aug 15), Igualada_  
-Providing guidance to a small group of 19-year-old working on projects to serve and enhance human values
-
+[**Scouts Association Jaume Caresmar**](http://cauigualada.cat/) _(Nov 13 – Aug 15 & Sept 2007 –Jul 2010), Igualada_  
+Providing guidance to small youth groups (19 and 11-15 year-olds). Educating  and enhancing human values.
+ 
 [**CODAME**](http://codame.com/) _(Jul 11 – Apr 13), San Francisco_  
 Art-tech non-profit. Helping to organize and set up events to inspire people.
 
 [**AFEV**](http://afev.org/) _(Oct 09 – May 10), Barcelona_  
 NGO that provides support to youth with a high risk of social exclusion. Tutoring kids during the scholar course.
 
-[**Scouts Association Jaume Caresmar**](http://cauigualada.cat/) _(Sept 2007 – Jul 2010), Igualada_  
-Scout leader with youths aged between 11 and 15 years old. Educating social values
-
 ### Hobbies and interests
-Decentralization, governance, Bitcoin, Ethereum, Monero. Information handling. Behavioral economics, cognitive biases, altered states of consciousness. Advocate for open source/hardware. Accessible education. Quantified self. Electronics and DIY. Technology. Social networks impact. Startup scene. Early adopter. Vjing. Photography. Nature lover. Nutrition. Runner, rock climber. Bare-footing. Minimalism, sustainability.
+Power  and data decentralization, governance, Bitcoin, Ethereum, Monero. Information handling. Behavioral economics, cognitive biases, altered states of consciousness. Advocate for open source/hardware. Accessible education. Quantified self. Electronics and DIY. Technology. Social networks impact. Startup scene. Vjing. Photography. Nature lover. Nutrition. Runner, rock climber. Bare-footing. Minimalism, sustainability.
 
-My [personal blog](http://xavivives.com/index)   has a good colection of essays, ideas and experiments 
+My [personal blog](http://xavivives.com/index)   has a good collection of essays, ideas, and experiments 
