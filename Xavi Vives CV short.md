@@ -58,10 +58,7 @@ Creative agency . Lead Flash programmer and UI designer. Projects included isome
 Mostly front-end/interactive: Javascript (React, Mocha, NPM…), Solidity, Web3, Truffle, unit testing, C# & Unity3D, C++ (OpenFrameworks), Haxe (Open FL), ActionScript 3, Processing, Arduino.
 
 #### UX UI
-[Uumm] (https://xavivives.github.io/Uumm/#projectId=0xcb3505cc27dc906855289efdc3e54ac5a8f1bcc7af32fdb9f1dfbce9b1b2acb8)
-, [Ludovico] (https://www.youtube.com/watch?v=eDI82fS5Kd8), [Metadata concept app]
-(https://www.youtube.com/watch?v=vZOW3OdPNXA&index=5&list=UUoRJpJaBBiGYqKxzlUBRNfA&t=35s), [Rubick's cube app]
-(https://www.youtube.com/watch?v=_q9hy9OXPuE)
+[Uumm](https://xavivives.github.io/Uumm/#projectId=0xcb3505cc27dc906855289efdc3e54ac5a8f1bcc7af32fdb9f1dfbce9b1b2acb8), [Ludovico](https://www.youtube.com/watch?v=eDI82fS5Kd8), [Metadata concept app](https://www.youtube.com/watch?v=vZOW3OdPNXA&index=5&list=UUoRJpJaBBiGYqKxzlUBRNfA&t=35s), [Rubick's cube app](https://www.youtube.com/watch?v=_q9hy9OXPuE)
 
 #### Personal
 I've led several projects, developing good skills for motivating people. I look for resolving problems from the onset and always looking to facilitate the work to others. Transparency is a requirement on any project I work.
