@@ -10,7 +10,7 @@ October 2017
 
 **[Esqueixada](https://www.youtube.com/channel/UC9lV1Baas2UbkOzmOOBqmxw/videos?view_as=subscriber)**  
 _(Sept 17 - Current) Girona_  
-Podcast to explain the need and the inner workings of decentralization and crypto, focused on the Catalonia context.
+Podcast to explain the need and the inner workings of decentralization and crypto, focused on the Catalonian context.
 
 **[Uumm. Decentralized meritocracy](https://github.com/Uummio/)**  
  _(Jul 17 - current) Girona_  
