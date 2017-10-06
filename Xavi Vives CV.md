@@ -1,15 +1,11 @@
 October 2017  
   
 [xavivives.com](http://xavivives.com/index)  
+[xavings@gmail.com](maito:xavings@gmail.com)  
 [@xavivives](https://twitter.com/xavivives)  
 [Github](https://github.com/xavivives)  
 
 # Xavier Vives Riba
-
-### Designer and developer
-Most of the projects I've been part of require a mix between design skills and technical knowledge, which is the area where I really enjoy working on. 
-
-In last few years, my main area of interest has been focused on decentralized technologies, and what they can enable technically but especially for the social-economic side of it.
 
 ## Professional experience
 
