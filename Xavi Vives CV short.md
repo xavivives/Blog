@@ -8,7 +8,7 @@ October 2017
 
 ### Decentralization
 
-**[Liquid Pledging UI](https://github.com/Giveth/liquidpledging-ui)**
+**[Liquid Pledging UI](https://github.com/Giveth/liquidpledging-ui)**  
 _(Oct 17 - Current) Barcelona_  
 Generic UI implementation of [Jordi Baylina](https://github.com/jbaylina)'s [Liquid Pledging](https://github.com/Giveth/liquidpledging) contract. For debugging purposes.
 
