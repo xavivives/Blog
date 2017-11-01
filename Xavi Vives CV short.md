@@ -8,6 +8,10 @@ October 2017
 
 ### Decentralization
 
+**[Liquid Pledging UI](https://github.com/Giveth/liquidpledging-ui)**
+_(Oct 17 - Current) Barcelona_  
+Generic UI implementation of [Jordi Baylina](https://github.com/jbaylina)'s [Liquid Pledging](https://github.com/Giveth/liquidpledging) contract. For debugging purposes.
+
 **[Esqueixada](https://www.youtube.com/channel/UC9lV1Baas2UbkOzmOOBqmxw/videos?view_as=subscriber)**  
 _(Sept 17 - Current) Girona_  
 Podcast to explain the need and the inner workings of decentralization and crypto, focused on the Catalonian context.
