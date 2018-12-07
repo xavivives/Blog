@@ -1,4 +1,4 @@
-October 2017  
+December 2018 
   
 [xavivives.com](http://xavivives.com/index)  
 [xavings@gmail.com](maito:xavings@gmail.com)  
@@ -10,21 +10,21 @@ October 2017
 ## Professional experience
 
 ### Decentralization
-**[Voĉdoni. Anonymous voting on the blockchain](http://vocdoni.io/)** _(Apr 18 - current) Girona_  
-A fully verifiable anonymous voting system using Ethereum and ephimeral Z-cash like blockchains.
-Overall design, ethereum contracts and user interface _(authored under different identity)_
+**[Voĉdoni. Decentralied anonymous voting](http://vocdoni.io/)** _(Apr 18 - current) Girona_  
+A fully verifiable anonymous voting system based on Ethereum and Zk-Snarks proofs.
+Co-founder, design, ethereum contracts and libraries.
 
-**[Arxiu. Distributed personal archive](https://github.com/arxiu)** _(Sep 18 - current) Girona_  
-Personal endevour to understand and create tools that empower how do we organize our mind and digital information.
+**[Interplanetary mind-map](https://github.com/interplanetarymindmap)** _(Sep 18 - current) Girona_  
+A set of explorations and tools to help redefine how do we digitally map and communicate our personal understanding of the world.
+
+**[Decentralized meritocracy](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85)**  _(Jul 17 - June 18) Girona_  
+[Eassay](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85),  [prototype](https://github.com/uummProject), and [videos](https://www.youtube.com/watch?v=N_IetZIalAE&list=PL70j4NA4pngzG3H1lBu5pc8Wok_TD5ECf) of meritocratic governance system that is a superset of any other governance form. 
 
 **[Liquid Pledging UI](https://github.com/Giveth/liquidpledging-ui)** _(Oct 17 - Apr 18) Barcelona_  
 Generic UI implementation of [Jordi Baylina](https://github.com/jbaylina)'s [Liquid Pledging](https://github.com/Giveth/liquidpledging) contract. For debugging purposes.
 
 **[Esqueixada](https://www.youtube.com/channel/UC9lV1Baas2UbkOzmOOBqmxw/videos?view_as=subscriber)**  _(Sept 17 - Dec 17) Girona_  
 Podcast to explain the need and the inner workings of decentralization and crypto, focused around the Catalan context.
-
-**[Uumm. Decentralized meritocracy](https://github.com/Uummio/)**  _(Jul 17 - current) Girona_  
-Building a governance system based on white-listed merit on Ethereum. [Prototype](https://github.com/uummProject), [justification](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85), [videos](https://www.youtube.com/watch?v=N_IetZIalAE&list=PL70j4NA4pngzG3H1lBu5pc8Wok_TD5ECf)
 
 **[Self-commitment app on Ethereum](https://github.com/status-im/hackathon/issues/65)** _(Jun 17), Girona_    
 Part of Status.im Hackathon.
@@ -139,6 +139,10 @@ Presenting "Blockchain identity: digital passports to the self-sovereign world" 
 **Interview at Ciutat Vella radio** _(May 09)_, Barcelona. About "goodvibrations.es" and illegal music download.  
 
 ### Volunteering
+[** Ethereum Devcon IV volunteer**](https://devcon4.ethereum.org/) _(Nov 18)_
+
+[** Web3 summit volunteer**](https://2018.web3summit.com/) _(Oct 18)_
+
 [**Co-founder of Monero Barcelona meetup group**](https://t.me/monerobarcelona) _(Jan 17 - current) Barcelona_,  
 Initialy a Meetup group, now organically organized on Telegram. For meeting fellow private-currency enthusiats.
 

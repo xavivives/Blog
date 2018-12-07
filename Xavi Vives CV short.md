@@ -1,4 +1,4 @@
-September 2018  
+December 2018  
   
 # Xavier Vives Riba
 [xavivives.com](http://xavivives.com/index) - [xavings@gmail.com](mailto:xavings@gmail.com) - [@xavivives](https://twitter.com/xavivives) -  [Github](https://github.com/xavivives)  
@@ -7,29 +7,21 @@ September 2018
 ## Professional experience
 
 ### Decentralization
-**[Voĉdoni. Anonymous voting on the blockchain](http://vocdoni.io/)** _(Apr 18 - current) Girona_  
-A fully verifiable anonymous voting system using Ethereum and ephimeral Z-cash like blockchains.
-Overall design, ethereum contracts and user interface _(authored under different identity)_
+**[Voĉdoni. Decentralied anonymous voting](http://vocdoni.io/)** _(Apr 18 - current) Girona_  
+A fully verifiable anonymous voting system based on Ethereum and Zk-Snarks proofs.
+Co-founder, design, ethereum contracts and libraries.
 
-**[Arxiu. Distributed personal archive](https://github.com/arxiu)** _(Sep 18 - current) Girona_  
-Personal endevour to understand and create tools that empower how do we organize our mind and digital information.
+**[Interplanetary mind-map](https://github.com/interplanetarymindmap)** _(Sep 18 - current) Girona_  
+A set of explorations and tools to help redefine how do we digitally map and communicate our personal understanding of the world.
+
+**[Decentralized meritocracy](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85)**  _(Jul 17 - June 18) Girona_  
+[Eassay](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85),  [prototype](https://github.com/uummProject), and [videos](https://www.youtube.com/watch?v=N_IetZIalAE&list=PL70j4NA4pngzG3H1lBu5pc8Wok_TD5ECf) of meritocratic governance system that is a superset of any other governance form. 
 
 **[Liquid Pledging UI](https://github.com/Giveth/liquidpledging-ui)** _(Oct 17 - Apr 18) Barcelona_  
 Generic UI implementation of [Jordi Baylina](https://github.com/jbaylina)'s [Liquid Pledging](https://github.com/Giveth/liquidpledging) contract. For debugging purposes.
 
 **[Esqueixada](https://www.youtube.com/channel/UC9lV1Baas2UbkOzmOOBqmxw/videos?view_as=subscriber)**  _(Sept 17 - Dec 17) Girona_  
 Podcast to explain the need and the inner workings of decentralization and crypto, focused around the Catalan context.
-
-**[Uumm. Decentralized meritocracy](https://github.com/Uummio/)**  _(Jul 17 - current) Girona_  
-Building a governance system based on white-listed merit on Ethereum. [Prototype](https://github.com/uummProject), [justification](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85), [videos](https://www.youtube.com/watch?v=N_IetZIalAE&list=PL70j4NA4pngzG3H1lBu5pc8Wok_TD5ECf)
-
-**[Self-commitment app on Ethereum](https://github.com/status-im/hackathon/issues/65)** _(Jun 17), Girona_    
-Part of Status.im Hackathon.
-
-**[Samantha](https://github.com/xavivives/Samantha/tree/master/extension)** _(Apr 16) - Jun 16), Hong Kong_  
-Chrome extension for organizing web content and storing it into IPFS. This has become the `Arxiu` project
-
-
 
 
 ### Career
@@ -89,6 +81,10 @@ Presenting "Blockchain identity: digital passports to the self-sovereign world" 
 **Adobe gaming summit** _(Jul 11)_, San Francisco. Presenting "Rubix" app developed with Adobe Air.
 
 ### Volunteering
+[** Ethereum Devcon IV volunteer**](https://devcon4.ethereum.org/) _(Nov 18)_
+
+[** Web3 summit volunteer**](https://2018.web3summit.com/) _(Oct 18)_
+
 [**Co-founder of Monero Barcelona meetup group**](https://t.me/monerobarcelona) _(Jan 17 - current) Barcelona_,  
 Initialy a Meetup group, now organically organized on Telegram. For meeting fellow private-currency enthusiats.
 
@@ -105,6 +101,6 @@ Art-tech non-profit. Helping to organize and set up events to inspire people.
 NGO that provides support to youth with a high risk of social exclusion. Tutoring kids during the scholar course.
 
 ### Hobbies and interests
-Power  and data decentralization, governance, Bitcoin, Ethereum, Monero. Information handling. Behavioral economics, cognitive biases, altered states of consciousness. Advocate for open source/hardware. Accessible education. Quantified self. Electronics and DIY. Technology. Social networks impact. Startup scene. Vjing. Photography. Nature lover. Nutrition. Runner, rock climber. Bare-footing. Minimalism, sustainability.
+Decentralization, governance, Bitcoin, Ethereum, Monero. Information handling. Behavioral economics, cognitive biases, altered states of consciousness. Advocate for open source/hardware. Accessible education. Quantified self. Electronics and DIY. Technology. Social networks impact. Startup scene. Early adopter. Vjing. Photography. Nature lover. Nutrition. Runner, rock climber. Bare-footing. Minimalism, sustainability.
 
 My [personal blog](http://xavivives.com/index)   has a good collection of essays, ideas, and experiments 
