@@ -81,9 +81,9 @@ Presenting "Blockchain identity: digital passports to the self-sovereign world" 
 **Adobe gaming summit** _(Jul 11)_, San Francisco. Presenting "Rubix" app developed with Adobe Air.
 
 ### Volunteering
-[** Ethereum Devcon IV volunteer**](https://devcon4.ethereum.org/) _(Nov 18)_
+[**Ethereum Devcon IV volunteer**](https://devcon4.ethereum.org/) _(Nov 18)_
 
-[** Web3 summit volunteer**](https://2018.web3summit.com/) _(Oct 18)_
+[**Web3 summit volunteer**](https://2018.web3summit.com/) _(Oct 18)_
 
 [**Co-founder of Monero Barcelona meetup group**](https://t.me/monerobarcelona) _(Jan 17 - current) Barcelona_,  
 Initialy a Meetup group, now organically organized on Telegram. For meeting fellow private-currency enthusiats.
