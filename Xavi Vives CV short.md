@@ -101,7 +101,7 @@ Transparency is a requirement on any project I work, and I've left the most fina
 - Adobe gaming summit, Rubix app development with Adobe Air - at [Adobe SF](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html) - Jul 11
 
 ## Articles
-
+- [Index of my latest abstractions](https://xavivives.com/#?expr=[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3clzfmhs7a%22,[[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c2lf4dbua%22,%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c74zv63pa%22]]]&) - _current_
 - [Vocdoni, reimagining governance](https://blog.aragon.org/vocdoni-reimagining-governance/) - _Jan 2020_
 - [Broken meritocracy. Rethinking governance with smart contracts](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85) - _Sep 2017_
 
