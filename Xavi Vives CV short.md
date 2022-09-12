@@ -63,10 +63,10 @@ I've founded an grown company with all it implies: seeking funding, product mana
 I'm used to fast paced environments, but I no longer aim at the cost of long-term personal wellness of the team. Instead I look for long-term sustainability. A good team is small, self-organized, responsive, works asynchronous and remote but has space for empathy and physical meetups. I've led many projects, developing good skills for organizing all sort of heterogenetic people. I look for resolving problems from the onset and always looking to facilitate the work to others. I value teamwork, always willing to listen, learn and teach. I embrace [Nonviolent Communication (NVC)](https://en.wikipedia.org/wiki/Nonviolent_Communication) in my communication and relationships of any kind, trying to understand the other's needs before focusing on the message. I'm motivated, optimistic, patient with high emotional self-control and I appreciate similar qualities in my colleagues.
 
 **Development**  
-Web3: Ethereum, IPFS, IPLD; Solidity, Truffle.
-Frontend: Typescript, Dart (Flutter), Javascript (React, Mocha, NPM…)
-Game development: Unity3D, C#, Haxe (Open FL)
-Creative: C++ (OpenFrameworks), ActionScript 3, Processing, Arduino
+Web3: Ethereum, IPFS, IPLD; Solidity, Truffle  
+Frontend: Typescript, Dart (Flutter), Javascript (React, Mocha, NPM…)  
+Game development: Unity3D, C#, Haxe (Open FL)  
+Creative: C++ (OpenFrameworks), ActionScript 3, Processing, Arduino  
 
 **User experience**  
 I'm motivated by products that enable its users to do more. I look for accessibility and minimalism without sacrificing optionality. For most projects I've had a mix role of front-end developer + UI/UX lead designer such as [Vocdoni's App UI](https://www.figma.com/file/e0KoX2m1aHM14sd6rLtPynRU/Vocdoni-App?node-id=3356%3A182),  mobile and social games, [Ludovico](https://www.youtube.com/watch?v=eDI82fS5Kd8) or [metadata concept app](https://www.youtube.com/watch?v=vZOW3OdPNXA&index=5&list=UUoRJpJaBBiGYqKxzlUBRNfA&t=35s)
