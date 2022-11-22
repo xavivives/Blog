@@ -83,6 +83,8 @@ Transparency is a requirement on any project I work, and I've left the most fina
 
 ## Talks and conferences
 
+- [A protocol to upgrade natural language](https://www.youtube.com/watch?v=H9TudZ_fC3o) - at [IPFS Camp](https://2022.ipfs.camp/) - _Oct 2022_
+- [Decentralization and Human Rights. Censorship in Catalonia](https://www.youtube.com/watch?v=0gbMYNEIVZ8&t=441s) - at [IPFS Camp](https://2022.ipfs.camp/) - _Oct 2022_
 - [E-voting building new standard of expression of will](https://www.youtube.com/watch?v=3R5s4dG9oTA) - at [Democracy4All](https://www.d4a.io/) - _Oct 2020_
 - [Eines per empoderar la ciutadania](https://www.youtube.com/watch?v=MJCYKja0Z8A)- at [Mobile Week](https://mweek.com/#) - _Feb 2020_
 - [Vocdoni presentation](https://www.youtube.com/watch?v=y1xnVuAjVP4) - at [Ethereum Dev Barcelona meetup](https://www.meetup.com/ethereumbcn/) - _Feb 2020_
