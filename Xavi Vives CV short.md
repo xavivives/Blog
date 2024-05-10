@@ -1,4 +1,4 @@
-September 2022 
+May 2024
   
 # Xavier Vives Riba
 
@@ -6,8 +6,8 @@ September 2022
 
 ## Professional experience (decentralization)
 
-**[Interplanetary mind-map](https://github.com/interplanetarymindmap/docs)** - _Mar 2021 - current, remote_  
-The Interplanetary mind-map aims to create a conceptual framework that is representative of the natural flow of information to later be mapped into decentralized protocols to further enable tools that can transcend the limits of language in dealing with complexity and meaning.  
+**[Universal Meaning Map](https://github.com/universal-meaning-map/docs)** Previously named Interplanetary Mind Map - _Mar 2021 - current, remote_  
+UMM is developing a conceptual framework to represent meaning (our internal model of reality). Its ultimate goal is to be able to map this framework into digital primitives founded on top of decentralized protocols.
 Founder and researcher.
 
 **[Vocdoni. Decentralized anonymous voting](https://github.com/vocdoni/)** - _Apr 2018 - Mar 21, remote_  
@@ -20,7 +20,7 @@ Founder and researcher.
 
 **Decentralization explorations**
 
-- **[UUMM, Decentralized meritocracy](https://github.com/uummProject)**  - _Jul 2017 - June 2018, remote_  
+- [**Decentralized meritocracy**](https://github.com/uummProject)  - _Jul 2017 - June 2018, remote_  
 A meritocratic governance system that is a superset of any other governance form. Developer
 
 - **[Liquid Pledging UI](https://github.com/Giveth/liquidpledging-ui)** - _Oct 2017 - Apr 2018, Barcelona_  
@@ -73,18 +73,18 @@ I'm motivated by products that enable its users to do more. I look for accessibi
 
 ## Personal ethics
 
-For the last 6 years I've worked exclusively on projects that are 100% open-source and focused on empowering the individual and civil society.
+For the last 8 years I've worked exclusively on projects that are 100% open-source and focused on empowering the individual and civil society.
 
-My exclusive focus is the long term development of [Interplanetary mind-map](https://github.com/interplanetarymindmap/docs) and the creation of a foundational framework to sustain it. I'm currently publishing and experimenting with it using [my site as a first prototype](https://xavivives.com/#?expr=[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3clzfmhs7a%22,[[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c2lf4dbua%22,%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3cwx4lcc2a%22],[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c2lf4dbua%22,%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3cmy3c4u4a%22]]]&).
+My exclusive focus is the long term development of [Umm](https://github.com/universal-meaning-map/docs) and the creation of a foundational framework to sustain it. I'm currently publishing and experimenting with it using [my site as a first prototype](https://xavivives.com/#?expr=[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3clzfmhs7a%22,[[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c2lf4dbua%22,%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3cwx4lcc2a%22],[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c2lf4dbua%22,%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3cmy3c4u4a%22]]]&).
 
-The experience building [Vocdoni](https://github.com/vocdoni) requires a special mention for how brutally intense it was. As co-founder and CEO of Vocdoni I drove the project from a small hacktivist group to a 15 people company, developing the first fully trust-less voting protocol and deployed it in numerous production settings. Vocdoni grew up in a extremely hostile environment with an constant fear of physical and digital safety due to the Spanish government censorship and prosecution. Me and my co-founder were targets of the [CatalanGate espionage scandal](https://catalonia.citizenlab.ca/) by the Spanish Government using [NSO Group ](https://en.wikipedia.org/wiki/NSO_Group)[Pegasus](https://en.wikipedia.org/wiki/Pegasus_(spyware)) and [Candiru](https://en.wikipedia.org/wiki/Candiru_(spyware_company)) spyware. That experience shaped me as a person an professional. Vocdoni got acquired by [Aragon Association](https://aragon.org/aragon-association) in 2021 and soon after I was forced out the project do to very strong differences in its vision and ethics.
+The experience building [Vocdoni](https://github.com/vocdoni) requires a special mention for how brutally intense it was. As co-founder and CEO of Vocdoni I drove the project a small hacktivist group we grew up to a 15 people company, developing the first fully trust-less voting protocol and deployed it in numerous production settings. Vocdoni grew up in a extremely hostile environment with an constant fear of physical and digital safety due to the Spanish government censorship and prosecution. Me and my co-founder were targets of the [CatalanGate espionage scandal](https://catalonia.citizenlab.ca/) by the Spanish Government using NSO Group and Candiru spyware. That experience shaped me as a person an professional. Vocdoni got acquired by [Aragon Association](https://aragon.org/aragon-association) in 2021 and soon after I was forced out the project do to very strong differences in its vision and ethics.
 
-Transparency is a requirement on any project I work, and I've left the most financially rewarding projects because of that. I'm driven by purpose, sometimes at my personal cost and I'm not looking at economic reward at the cost of others. I'm not ok participating in the VC model, forced crypto-token projects masked with beautified narrative of decentralization nor any model that exploits users attention or privacy.
+Transparency is a requirement on any project I work, and I've left the most financially rewarding projects because of that. I'm driven by purpose, sometimes at my personal cost and I'm not looking at economic reward at the cost of others. I'm not ok participating in the VC model nor in forced crypto-token projects masked with beautified narrative of decentralization, or any model that exploits users attention or privacy.
 
 ## Talks and conferences
 
-- [A protocol to upgrade natural language](https://www.youtube.com/watch?v=H9TudZ_fC3o) - at [IPFS Camp](https://2022.ipfs.camp/) - _Oct 2022_
-- [Decentralization and Human Rights. Censorship in Catalonia](https://www.youtube.com/watch?v=0gbMYNEIVZ8&t=441s) - at [IPFS Camp](https://2022.ipfs.camp/) - _Oct 2022_
+- [A protocol to upgrade natural language](https://www.youtube.com/watch?v=H9TudZ_fC3o) - at [IPFS Camp](https://2022.ipfs.camp/) - _Oct 2022_
+- [Decentralization and Human Rights. Censorship in Catalonia](https://www.youtube.com/watch?v=0gbMYNEIVZ8&t=441s) - at [IPFS Camp](https://2022.ipfs.camp/) - _Oct 2022_
 - [E-voting building new standard of expression of will](https://www.youtube.com/watch?v=3R5s4dG9oTA) - at [Democracy4All](https://www.d4a.io/) - _Oct 2020_
 - [Eines per empoderar la ciutadania](https://www.youtube.com/watch?v=MJCYKja0Z8A)- at [Mobile Week](https://mweek.com/#) - _Feb 2020_
 - [Vocdoni presentation](https://www.youtube.com/watch?v=y1xnVuAjVP4) - at [Ethereum Dev Barcelona meetup](https://www.meetup.com/ethereumbcn/) - _Feb 2020_
@@ -103,7 +103,7 @@ Transparency is a requirement on any project I work, and I've left the most fina
 - Adobe gaming summit, Rubix app development with Adobe Air - at [Adobe SF](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html) - Jul 11
 
 ## Articles
-- [Index of my latest abstractions](https://xavivives.com/#?expr=[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3clzfmhs7a%22,[[%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c2lf4dbua%22,%22i12D3KooWBSEYV1cK821KKdfVTHZc3gKaGkCQXjgoQotUDVYAxr3c74zv63pa%22]]]&) - _current_
+
 - [Vocdoni, reimagining governance](https://blog.aragon.org/vocdoni-reimagining-governance/) - _Jan 2020_
 - [Broken meritocracy. Rethinking governance with smart contracts](https://medium.com/@xavivives/broken-meritocracy-74c584f62b85) - _Sep 2017_
 
@@ -119,4 +119,4 @@ Transparency is a requirement on any project I work, and I've left the most fina
 
 ## Hobbies and interests
 
-Linguistics, phenomenology, semiotics, Nonviolent communication, decentralization, governance, decentralized identity, reputation systems, behavioral economics, cognitive biases, altered states of consciousness, Nonviolent Communication. Advocate for open source/hardware. Accessible education. Quantified self. Electronics and DIY. Technology, user-interfaces. Nature lover. Nutrition, running, yoga, rock climber, bare-footing. Minimalism, sustainability.
+Linguistics, phenomenology, semiotics, Nonviolent communication, decentralization, governance, decentralized identity, reputation systems, behavioral economics, cognitive biases, altered states of consciousness. Advocate for open source/hardware. Accessible education. Quantified self. Electronics and DIY. Technology. Social networks impact. Nature lover. Nutrition. Runner, rock climber, bare-footer. Minimalism, sustainability.
